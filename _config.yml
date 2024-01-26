@@ -3,22 +3,25 @@ title: 지하철빌런위키
 description: 이것은 GitHub Pages를 사용하여 만든 나의 위키입니다.
 
 # 사이트 기본 URL (필요한 경우 설정)
-
+# url: "http://example.com"
 
 # 빌드 설정
 markdown: kramdown
 theme: minima # 사용할 Jekyll 테마
 
 # 사이트 저자 정보
-author:kdy010010
+author:
   name: 당신의 이름
-  email:kdywkrrk@gmail.com
+  email: kdywkrrk@gmail.com
 
 # 빌드 후 제외할 파일이나 폴더
-
+# exclude:
+#   - somefile
+#   - somedirectory/
 
 # 소셜 미디어 정보 (선택 사항)
-
+# twitter_username: yourusername
+# github_username:  yourusername
 
 # 플러그인 (GitHub Pages에서 사용 가능한 플러그인만)
 plugins:
